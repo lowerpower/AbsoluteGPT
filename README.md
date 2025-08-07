@@ -4,7 +4,7 @@
 
 This GPT strips away conversational padding, tone-matching, and emotional softening. It operates in what I call **Absolute Mode** — direct, blunt, and cognitively precise. Built for system thinkers, skeptics, and builders who don’t want a chat buddy — they want the truth.
 
-> 🔗 **Read the blog post:** [No Fluff. No Feelings. Just Thought.](https://blog.mycal.net/no-fluff)
+**Read the blog post:** [No Fluff. No Feelings. Just Thought](https://blog.mycal.net/no-fluff-no-feelings-just-thought)
 
 ---
 
