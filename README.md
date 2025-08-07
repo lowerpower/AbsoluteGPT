@@ -28,8 +28,9 @@ This GPT strips away conversational padding, tone-matching, and emotional soften
 
 The included icon, `assets/tiwaz-absolute-brutal.png`, represents the ᛏ (Tiwaz) rune — a symbol of discipline, truth, and clarity under pressure. It embodies the spirit of AbsoluteGPT.
 
-![Tiwaz Rune – Brutal Mode](assets/tiwaz-absolute-brutal.png)
-
+<p align="center">
+  <img src="assets/tiwaz-absolute-brutal.png" alt="Tiwaz Rune – Brutal Mode" width="300" />
+</p>
 
 ---
 
@@ -44,9 +45,9 @@ Or clone this repo and launch from source.
 
 ## 📚 Files
 
-- `.gpts/config.json`: Configuration file
-- `docs/prompt_design.md`: In-depth design notes
-- `blog/no-fluff-no-feelings.md`: Markdown version of the companion essay
+- [.gpts/config.json](.gpts/config.json): Configuration file for importing the GPT
+- [docs/prompt_design.md](docs/prompt_design.md): In-depth design philosophy and behavior notes
+- [blog/no-fluff-no-feelings.md](blog/no-fluff-no-feelings.md): Markdown version of the companion blog essay
 
 ---
 
