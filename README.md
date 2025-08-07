@@ -45,10 +45,9 @@ Or clone this repo and launch from source.
 
 ## 📚 Files
 
-- [.gpts/config.json](.gpts/config.json): Configuration file for importing the GPT
-- [docs/prompt_design.md](docs/prompt_design.md): In-depth design philosophy and behavior notes
+- [.gpts/absolute-brutal.json](.gpts/absolute-brutal.json): Configuration file for importing the GPT
+- [docs/prompt-design.md](docs/prompt_design.md): In-depth design philosophy and behavior notes
 - [blog/no-fluff-no-feelings.md](blog/no-fluff-no-feelings.md): Markdown version of the companion blog essay
-
 ---
 
 **Author**: [Mycal](https://blog.mycal.net)  
