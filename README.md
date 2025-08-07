@@ -46,7 +46,7 @@ Or clone this repo and launch from source.
 ## 📚 Files
 
 - [.gpts/absolute-brutal.json](.gpts/absolute-brutal.json): Configuration file for importing the GPT
-- [docs/prompt-design.md](docs/prompt_design.md): In-depth design philosophy and behavior notes
+- [docs/prompt-design.md](docs/prompt-design.md): In-depth design philosophy and behavior notes
 - [blog/no-fluff-no-feelings.md](blog/no-fluff-no-feelings.md): Markdown version of the companion blog essay
 ---
 
